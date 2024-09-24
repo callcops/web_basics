@@ -13,7 +13,8 @@ opacity: 1;
 
 .home:hover + .back_link{
 display: inline;
-background-color: ;
-opacity: 1;
-transition: opacity 0.5s;
+cursor: pointer;
+}
+.home_image{
+    width: 32px;
 }
